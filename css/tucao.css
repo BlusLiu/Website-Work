@@ -1,0 +1,166 @@
+<style type="text/css">
+
+a:link {
+    color: #0099FF;
+	text-decoration: none;
+}
+a:visited{
+    color: #0099FF;
+}
+
+
+.top{
+    position:relative;
+    height:130px;
+    width: 100%;
+}
+
+.top>.title{
+    position:absolute;
+    height:64px;
+    left: 53%;
+}
+
+.top>.title>span{
+    line-height:100px;
+    float:right;
+}
+
+.top>.title>span>a{
+    font-size:20px;
+    font-family:"微软正黑体";   
+    color:#333
+}
+
+.top>.title>span>.bold{
+    font-weight:bolder;
+}
+
+.top>.biaoti{
+    position:absolute;
+    top: 25px;
+    left: 20%;
+    height: 50px;
+    width: 350px;
+    font-size:35px;
+    font-family:"微软正黑体";
+    color: #f00;
+}
+
+.wrapper{
+    position:relative;
+    height:2632px;
+    width: 100%;
+}
+
+.wrapper>.nerong{
+    position:absolute;
+    height:2632px;
+
+    width: 55%;
+    left: 17%;
+ 
+}
+.wrapper>.rank{
+    position:absolute;
+    height:800px;
+    width: 10%;
+    left: 78%;
+    
+}
+.wrapper>.nerong>.tucao{
+    position:relative;
+    height: 233px;
+    width: 100%;   
+    
+}
+
+.wrapper>.nerong>.tucao>.pic{
+    position:absolute;
+    top: 185px;
+    left: 3%;
+    height: 35px;
+    width: 85%;   
+}
+
+
+
+.wrapper>.nerong>.tucao>.txt{
+    position:absolute;
+    top: 20px;
+    left: 3%;
+    height: 160px;
+    width: 85%;   
+
+ 
+}
+
+
+
+
+.introduce{
+    position:relative;
+    height:800px;
+    width: 100%;
+}
+
+.introduce_text{
+    position:relative;
+    bottom: 800px;
+    height:800px;
+    width: 100%;
+}
+
+.search{
+    text-decoration:none;
+    text-align:center;
+}
+
+.btn{
+    border:0;
+    width:250px;
+    height:40px;
+    background:#f00;
+    font-size:15px;
+    color:#fff;}
+.z1{
+	color:#A0A0A0;
+	}
+.z2{
+    font-size:20px;
+    font-family:"微软正黑体";
+    color:#303030;
+} 
+.z3{
+    font-size:30px;
+    font-family:"微软正黑体";
+    color:#A0A0A0;  
+}
+.inputText{
+    height:35px;
+    width:83%;
+    font-size:12px;
+    font-family:"微软正黑体";
+    color:#A0A0A0;
+}
+
+.foot{width:100%;
+    position:relative;
+    bottom:20px;
+}
+
+.copyright{
+    text-align:center;
+    text-decoration:none;
+    }
+p{
+    font-size:16px;
+    font-family:"微软正黑体";
+    color:#A0A0A0;
+    text-decoration:none;
+}
+
+.sp_right{
+    float:right;
+}
+</style>
